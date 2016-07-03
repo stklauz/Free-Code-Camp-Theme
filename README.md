@@ -3,7 +3,7 @@ A new theme to make free code camp a bit nicer
 
 Do you know how FCC is a bit ugly? You feel like it has a great deal of potential but you just can't go beyond the fact that that horrible green is screaming at you and at the same time, everything is freakishly white?! Well, I'm offering you a change!
 
-What Changes With the Free Code Camp Theme (Or At Least, This One?
+What Changes With the Free Code Camp Theme (Or At Least, This One?)
 
 * That horrible green is a smooth green bluish color;
 * That weird huge gonna-eat-your-face navbar is smaller and friendlier
