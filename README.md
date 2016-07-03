@@ -9,6 +9,9 @@ What Changes With the Free Code Camp Theme (Or At Least, This One?)
 * That weird huge gonna-eat-your-face navbar is smaller and friendlier
 * New smooth scrollbar on the instructions collumn.
 
+Here's a preview:
+![Theme Preview](https://raw.githubusercontent.com/stklauz/Free-Code-Camp-Theme/master/after.png)
+
 ## How to install
 Install the Google Chrome extension [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en "Stylish on Chrome Store"), create a new style and copy the code onto it. 
 Apply it to every URL that starts with <https://www.freecodecamp.com/>. 
