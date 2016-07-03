@@ -29,4 +29,4 @@ Until then you can always just "replace all" #009866.
 
 
 Feel free to fork it, play with it, and make it better!
-Thank you for your time and keep on hacking (stole [Travis Nielson](https://www.youtube.com/user/DevTipsForDesigners "Travis Nielson Youtube Channel") quote)
+Thank you for your time and keep on hacking (stole [Travis Neilson](https://www.youtube.com/user/DevTipsForDesigners "Travis Nielson Youtube Channel") quote)
