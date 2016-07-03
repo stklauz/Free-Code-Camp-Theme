@@ -25,7 +25,7 @@ Well I couln't do anything about:
 ## Future Additions
 
 Gonna add to this folder the code in sass, so you can pick whatever color you want, instead of that original darkgreen monster!
-Until then you can always just "replace all" #009866.
+Until then you can always just "replace all" #009688.
 
 
 Feel free to fork it, play with it, and make it better!
