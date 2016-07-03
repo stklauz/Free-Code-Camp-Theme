@@ -1,0 +1,89 @@
+/* WEBSITE GENERAL */
+a,
+.text-primary {
+    color: #009688;
+}
+
+/* logo (it's a bloddy img) */
+.nav-logo {
+    height: 25px;
+    margin-top: -2.5px;
+}
+
+/* navbar color */
+.navbar,
+.navbar-nav > li > a,
+.navbar-right {
+    background: #009688;
+    text-transform: lowercase;
+}
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus {
+    color: #009688;
+}
+
+/* challenge's checked status' color */
+.ion-checkmark-circled:before {
+    margin: 4rem 0 0 0;
+}
+.navbar-nav a {
+    font-size: 1.5rem;
+}
+
+/* scrollbar */
+.scroll-locker::-webkit-scrollbar {
+    width: 10px;
+}
+.scroll-locker::-webkit-scrollbar-thumb {
+    background: #666;
+    border-radius: 20px;
+}
+.scroll-locker::-webkit-scrollbar-track {
+    background: #ddd;
+    border-radius: 20px;
+}
+
+/* DFN parts of instructions */
+.challenge-instructions dfn {
+    font-family: monospace;
+    font-weight: 700;
+    font-style: normal;
+    /*text-decoration: underline;*/
+}
+
+/* Buttons */
+.btn-primary,
+.btn-primary:focus,
+.btn-primary.focus,
+.btn-primary:active,
+.btn-primary.active,
+.open>.dropdown-toggle.btn-primary {
+    color: #009688;
+    border-color: #009688;
+    background: #fff;
+}
+.btn-primary:hover {
+    color: #fff;
+    background: #009688;
+    border-color: #009688;
+}
+
+/* Search */
+#map-filter {
+    border-color: #009688;
+}
+.input-group-addon {
+    color: #009688;
+    background: #fff;
+    border-color: #009688;
+}
+.input-group-addon.filled {
+    background: #009688;
+    border-color: #009688;
+}
+
+/* Done challenges Icon */
+.big-success-icon {
+    color: #009688;
+}
+
