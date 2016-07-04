@@ -15,26 +15,24 @@
 .navbar-default .navbar-nav>li>a:focus {
     color: #009688;
 }
-
-/* challenge's checked status' color */
-.ion-checkmark-circled:before {
-    margin: 4rem 0 0 0;
-}
 .navbar-nav a {
     font-size: 1.5rem;
 }
 
 /* scrollbar */
-.scroll-locker::-webkit-scrollbar {
-    width: 10px;
+.scroll-locker::-webkit-scrollbar,
+.editorScrollDiv::-webkit-scrollbar {
+    width: 0.75rem;
 }
-.scroll-locker::-webkit-scrollbar-thumb {
+.scroll-locker::-webkit-scrollbar-thumb,
+.editorScrollDiv::-webkit-scrollbar-thumb {
     background: #666;
-    border-radius: 20px;
+    border-radius: 1rem;
 }
-.scroll-locker::-webkit-scrollbar-track {
+.scroll-locker::-webkit-scrollbar-track,
+.editorScrollDiv::-webkit-scrollbar-track {
     background: #ddd;
-    border-radius: 20px;
+    border-radius: 1rem;
 }
 
 /* DFN parts of instructions */
@@ -42,7 +40,6 @@
     font-family: monospace;
     font-weight: 700;
     font-style: normal;
-    /*text-decoration: underline;*/
 }
 
 /* Buttons */
