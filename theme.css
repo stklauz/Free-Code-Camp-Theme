@@ -1,3 +1,8 @@
+/*body background*/
+body{
+    background: #FAFAFA;
+}
+
 /* logo (it's a bloddy img) */
 .nav-logo {
     height: 25px;
@@ -8,12 +13,12 @@
 .navbar,
 .navbar-nav > li > a,
 .navbar-right {
-    background: #009688;
+    background: darkgreen;
     text-transform: lowercase;
 }
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus {
-    color: #009688;
+    color: darkgreen;
 }
 .navbar-nav a {
     font-size: 1.5rem;
@@ -40,6 +45,7 @@
     font-family: monospace;
     font-weight: 700;
     font-style: normal;
+    /*text-decoration: underline;*/
 }
 
 /* Buttons */
@@ -49,36 +55,36 @@
 .btn-primary:active,
 .btn-primary.active,
 .open>.dropdown-toggle.btn-primary {
-    color: #009688;
-    border-color: #009688;
-    background: #fff;
+    color: darkgreen;
+    border-color: darkgreen;
+    background: #FAFAFA;
 }
 .btn-primary:hover {
-    color: #fff;
-    background: #009688;
-    border-color: #009688;
+    color: #FAFAFA;
+    background: darkgreen;
+    border-color: darkgreen;
 }
 
 /* Search */
 #map-filter {
-    border-color: #009688;
+    border-color: darkgreen;
 }
 .input-group-addon {
-    color: #009688;
+    color: darkgreen;
     background: #fff;
-    border-color: #009688;
+    border-color: darkgreen;
 }
 .input-group-addon.filled {
-    background: #009688;
-    border-color: #009688;
+    background: darkgreen;
+    border-color: darkgreen;
 }
 
 /* Done challenges Icon */
 .big-success-icon,
 a,
 .text-primary {
-    color: #009688;
+    color: darkgreen;
 }
 .challenge-list-header {
-    background: #009688;
+    background: darkgreen;
 }
